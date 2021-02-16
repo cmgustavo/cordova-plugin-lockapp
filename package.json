@@ -1,0 +1,19 @@
+{
+  "name": "LockAppPlugin",
+  "version": "0.0.1",
+  "description": "Locks app immediately when it enters in background",
+  "cordova": {
+    "id": "cordova-plugin-lockapp",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "keywords": [
+    "cordova",
+    "camera",
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "author": "Gustavo Cortez",
+  "license": "MIT"
+}
